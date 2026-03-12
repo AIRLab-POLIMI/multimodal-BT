@@ -9,8 +9,16 @@ Large and small language models have been widely used for robotic task planning.
 > The manuscript is under review, and the source code and dataset will be released after publication.
 
 > [!CAUTION]
-> Temporary Citation (Preprint) - ArXiv: 
+> Temporary Citation (Preprint) - ArXiv: [http://arxiv.org/abs/2510.26358](https://arxiv.org/abs/2603.05147)
 >
+> ```bibtex
+> @article{battistini2026multimodal,
+>   title={Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning},
+>   author={Battistini, Cristiano and Izzo, Riccardo Andrea and Bardaro, Gianluca and Matteucci, Matteo},
+>   journal={arXiv preprint arXiv:2603.06084},
+>   year={2026}
+> }
+> ```
 
 **Authors**: [Cristiano Battistini](mailto:cristiano.battistini@mail.polimi.it), [Riccardo Andrea Izzo](mailto:riccardo.izzo@mail.polimi.it), [Gianluca Bardaro](mailto:gianluca.bardaro@polimi.it) and [Matteo Matteucci](mailto:matteo.matteucci@polimi.it)  
 **Location**: [**AIRLab** (The Artificial Intelligence and Robotics Lab of Politecnico di Milano)](https://airlab.deib.polimi.it/)
